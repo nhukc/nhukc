@@ -2,6 +2,12 @@
 
 I make computers go fast.
 
+### Code Contributions
+
+[Linux Kernel Contributions](https://lore.kernel.org/all/?q=nhuck%40google.com)
+
+[LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=nhukc)
+
 ### Math stuff
 
 [Klein bottle figure 8 immersion](https://www.shadertoy.com/view/MftSzl)
@@ -10,11 +16,6 @@ I make computers go fast.
 
 [Torus parameterization](https://www.shadertoy.com/view/MctSRl)
 
-### Code Contributions
-
-[Linux Kernel Contributions](https://lore.kernel.org/all/?q=nhuck%40google.com)
-
-[LLVM Contributions](https://github.com/llvm/llvm-project/commits/main?author=nhukc)
 
 <!--
 **Nathan-Huckleberry/Nathan-Huckleberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
